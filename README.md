@@ -9,3 +9,4 @@ Debugging-----https://facebook.github.io/react-native/docs/debugging.html#react-
 Blog----https://facebook.github.io/react-native/blog/
 Meetups--https://www.meetup.com/topics/react-native/
 React Live Editor---https://stackblitz.com/
+features of react native---https://github.com/jondot/awesome-react-native
